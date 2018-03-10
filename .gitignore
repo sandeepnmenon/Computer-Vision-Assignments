@@ -1,5 +1,7 @@
 *.png
 *.jpg
+*.jpeg
 *.pyc
 .ipynb_checkpoints
 *.zip
+*.npy
